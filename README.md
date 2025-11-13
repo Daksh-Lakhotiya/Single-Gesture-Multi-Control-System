@@ -46,7 +46,7 @@ It combines MediaPipe, TensorFlow, OpenCV, and Arduino for seamless multi-mode o
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Single-Gesture-Multi-Control-System.git
+git clone https://github.com/Daksh-Lakhotiya/Single-Gesture-Multi-Control-System.git
 cd Single-Gesture-Multi-Control-System
 ```
 
@@ -113,7 +113,7 @@ port = 'COM7'  # Change this according to your system
 
 - Uses **IrfanView** to display images from the screenshots folder:
   ```python
-  screenshots_folder = r"C:\Users\<username>\OneDrive\Pictures\Screenshots"
+  screenshots_folder = r"C:\Users\Daksh-Lakhotiya\OneDrive\Pictures\Screenshots"
   ```
 - Left Swipe → Next Image  
 - Right Swipe → Close Gallery  
